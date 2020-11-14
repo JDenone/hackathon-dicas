@@ -41,6 +41,7 @@ Clique <a href="./hackatons.md">aqui</a> para dar uma olhada nos próximos hacka
  - [CleanPng](https://www.cleanpng.com/)
  - [Black ilustrations](https://gumroad.com/l/UafDk)
  - [Lottieflow](https://www.lottieflow.com/)
+ - [React Icons](https://react-icons.github.io/react-icons/)
 
 ## :abc: Fontes
  - [Font Squirrel](https://www.fontsquirrel.com/)
